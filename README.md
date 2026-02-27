@@ -33,4 +33,5 @@ A weighted Investment Score
 Risk segmentation (market risk, neighborhood risk, affordability risk, strategy-fit risk)
 Identified challenges and red flags
 Clear recommendation: Buy, Hold, Reassess, or High Risk
+
 This project demonstrates how an intelligent agent can combine public API data with personalized financial inputs to deliver transparent, data-driven real estate investment decisions tailored to each user.
